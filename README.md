@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Nataniel Souza 👋
 
-<!--
-**Niel-nts/Niel-nts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About 
+I'm a web programmer in training, currently studying at the institution of Softex (PE/BRA) and Rocketseat
 
-Here are some ideas to get you started:
+#### Current stack
+:memo: Main language: `Javascript` </br>
+📡 Backend: `Node.js` </br>
+🎉 Frontend: `Reactjs`, `HTML5`, `CSS3`, `Javascript` </br>
+:art: Layout Design: `Figma` </br>
+:package: Version code control: `Git & Github`</br>
+🔨 Tools: `VS code`, `Markdown` </br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contacts
+
+📧 Email: nt.s@live.com  </br>
+👤 LinkedIn: [Nataniel Souza](https://www.linkedin.com/in/nataniel-souza-4082bb153/)
+

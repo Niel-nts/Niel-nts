@@ -14,5 +14,5 @@ I'm a web programmer in training, currently studying at the institution of Softe
 #### Contacts
 
 📧 Email: nt.s@live.com  </br>
-👤 LinkedIn: [Nataniel Souza](https://www.linkedin.com/in/nataniel-souza-4082bb153/)
+👤 LinkedIn: [Nataniel Souza](https://www.linkedin.com/in/nataniel-souza)
 

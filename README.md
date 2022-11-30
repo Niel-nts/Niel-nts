@@ -1,7 +1,7 @@
 ### Hi there, I'm Nataniel Souza 👋
 
 #### About 
-I'm a web programmer in training, currently studying at the institution of Softex (PE/BRA) and Rocketseat
+I'm a web programmer, currently studying at the institution of Softex (PE/BRA) and Rocketseat
 
 #### Current stack
 :memo: Main language: `Javascript` </br>
